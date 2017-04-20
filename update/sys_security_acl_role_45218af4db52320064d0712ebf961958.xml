@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-20 19:43:39</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>45218af4db52320064d0712ebf961958</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_60245_rental_pro_rental_application.x_60245_rental_pro_rental_application_user</sys_name>
+        <sys_package display_value="Rental Property Manager" source="x_60245_rental_pro">30c04e34db12320064d0712ebf9619ce</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rental Property Manager">30c04e34db12320064d0712ebf9619ce</sys_scope>
+        <sys_security_acl display_value="x_60245_rental_pro_rental_application">09218af4db52320064d0712ebf961957</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_45218af4db52320064d0712ebf961958</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-20 19:43:39</sys_updated_on>
+        <sys_user_role display_value="x_60245_rental_pro_rental_application_user" name="x_60245_rental_pro_rental_application_user">e0210630db12320064d0712ebf961940</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
